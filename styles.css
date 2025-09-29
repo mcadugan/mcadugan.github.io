@@ -4,6 +4,22 @@ font-family: Arial, Helvetica, sans-serif;
 margin: 40px;
 }
 h1 {
-color: dimgrey;
+color: rgb(49, 49, 49);
+text-align: center;
+}
+.about{
+color: ghostwhite;
+text-align: left;
+}
+.skills{
+color: ghostwhite;
+text-align: left;
+}
+.projects{
+color: ghostwhite;
+text-align: right;
+}
+.contact{
+color: cadetblue;
 text-align: center;
 }
